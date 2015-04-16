@@ -33,7 +33,7 @@ cheese
 chromium-browser chromium
 chromium-browser2 
 clementine application-x-clementine 
-clock cairo-clock gnome-panel-clock gnome-set-time rclock stock_alarm time xfce4-clock xfce-schedule 
+clock cairo-clock gnome-panel-clock gnome-set-time rclock stock_alarm time xfce4-clock xfce-schedule gnome-clocks
 credentials-preferences 
 deadbeef 
 defcon 
