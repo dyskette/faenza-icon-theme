@@ -120,7 +120,7 @@ gnome-session-switch system-switch-user xfsm-switch
 gnome-settings-default-applications preferences-desktop-default-applications 
 gnome-shutdown boot gnome-session-halt system-shut-down xfsm-shutdown
 gnome-sound-recorder 
-gnome-sticky-notes-applet evolution-memos gnome-note gnote sticky-notes stock_insert-note stock_notes tomboy-note xfce4-notes-plugin
+gnome-sticky-notes-applet evolution-memos gnome-note gnote sticky-notes stock_insert-note stock_notes tomboy-note xfce4-notes-plugin bijiben
 gnome-sudoku 
 gnome-swell-foop gnome-samegnome
 gnome-tali gtali categories:applications-boardgames
