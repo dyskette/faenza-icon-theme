@@ -169,7 +169,7 @@ libreoffice-main libreoffice-startcenter libreoffice-template libreoffice3-templ
 libreoffice-math libreoffice3-math libreoffice34-math
 libreoffice-writer libreoffice3-writer libreoffice34-writer
 liferea internet-news-reader akregator rssowl
-logviewer utilities-log-viewer logview
+logviewer utilities-log-viewer logview gnome-logs
 magnatune 
 mail-notification mailnag 
 media-player-banshee banshee banshee-1
