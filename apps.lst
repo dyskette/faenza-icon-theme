@@ -299,10 +299,10 @@ vlc
 web-browser browser gnome-web-browser redhat-web-browser internet-web-browser categories:applications-webbrowsers
 wikipedia 
 wine 
-wine-notepad 
-wine-uninstaller 
-wine-winecfg 
-wine-winetricks 
+wine-notepad notepad
+wine-uninstaller msiexec
+wine-winecfg winecfg
+wine-winetricks winetricks
 wireshark hi48-app-wireshark
 wordpress 
 workspace-switcher gnome-panel-workspace-switcher xfce4-workspaces
