@@ -210,7 +210,7 @@ ooo-template ooo-template3.0 openofficeorg3.0-template openofficeorg3-template o
 ooo-writer office-writer ooo-writer24 ooo-writer2 ooo-writer3.0 openofficeorg24-writer openofficeorg3.0-writer openofficeorg3-writer openofficeorg-writer 
 openbravo-erp 
 openerp-client 
-openjdk-6 openjdk-7 sun-java6 sun-java7 sun-java sun-javaws sun-jcontrol categories:applications-java
+openjdk-6 openjdk-7 java-1.8.0 sun-java6 sun-java7 sun-java sun-javaws sun-jcontrol categories:applications-java
 openshot 
 opera opera-browser
 opera-widget-manager opera-widget
