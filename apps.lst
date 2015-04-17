@@ -95,10 +95,10 @@ gnome-display-properties display-capplet preferences-desktop-display system-conf
 gnome-do 
 gnome-documents 
 gnome-freecell 
-gnome-glchess pychess glchess
-gnome-glines glines
-gnome-gnect gnect
-gnome-gnibbles gnibbles
+gnome-glchess pychess glchess gnome-chess
+gnome-glines glines five-or-more
+gnome-gnect gnect four-in-a-row
+gnome-gnibbles gnibbles gnome-nibbles
 gnome-iagno iagno
 gnome-klotski gnotski
 gnome-lightsoff lightsoff
