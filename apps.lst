@@ -97,10 +97,10 @@ gnome-display-properties display-capplet preferences-desktop-display system-conf
 gnome-do 
 gnome-documents 
 gnome-freecell 
-gnome-glchess pychess glchess
-gnome-glines glines
-gnome-gnect gnect
-gnome-gnibbles gnibbles
+gnome-glchess pychess glchess gnome-chess
+gnome-glines glines five-or-more
+gnome-gnect gnect four-in-a-row
+gnome-gnibbles gnibbles gnome-nibbles
 gnome-iagno iagno
 gnome-klotski gnotski
 gnome-lightsoff lightsoff
@@ -122,10 +122,10 @@ gnome-session-switch system-switch-user xfsm-switch
 gnome-settings-default-applications preferences-desktop-default-applications 
 gnome-shutdown boot gnome-session-halt system-shut-down xfsm-shutdown
 gnome-sound-recorder 
-gnome-sticky-notes-applet evolution-memos gnome-note gnote sticky-notes stock_insert-note stock_notes tomboy-note xfce4-notes-plugin
+gnome-sticky-notes-applet evolution-memos gnome-note gnote sticky-notes stock_insert-note stock_notes tomboy-note xfce4-notes-plugin bijiben
 gnome-sudoku 
 gnome-swell-foop gnome-samegnome
-gnome-tali gtali categories:applications-boardgames
+gnome-tali gtali tali categories:applications-boardgames
 gnome-tetravex gnotravex
 gnumeric webservice-office-zoho-sheet
 gnucash-icon 
@@ -171,7 +171,7 @@ libreoffice-main libreoffice-startcenter libreoffice-template libreoffice3-templ
 libreoffice-math libreoffice3-math libreoffice34-math
 libreoffice-writer libreoffice3-writer libreoffice34-writer
 liferea internet-news-reader akregator rssowl
-logviewer utilities-log-viewer logview
+logviewer utilities-log-viewer logview gnome-logs
 magnatune 
 mail-notification mailnag 
 media-player-banshee banshee banshee-1
@@ -212,7 +212,7 @@ ooo-template ooo-template3.0 openofficeorg3.0-template openofficeorg3-template o
 ooo-writer office-writer ooo-writer24 ooo-writer2 ooo-writer3.0 openofficeorg24-writer openofficeorg3.0-writer openofficeorg3-writer openofficeorg-writer 
 openbravo-erp 
 openerp-client 
-openjdk-6 openjdk-7 sun-java6 sun-java7 sun-java sun-javaws sun-jcontrol categories:applications-java
+openjdk-6 openjdk-7 java-1.8.0 sun-java6 sun-java7 sun-java sun-javaws sun-jcontrol categories:applications-java
 openshot 
 opera opera-browser
 opera-widget-manager opera-widget
@@ -248,7 +248,7 @@ qtdesigner designer
 qtlinguist linguist
 qtcreator qtcreator_logo_32
 radiotray 
-rhythmbox gmusicbrowser
+rhythmbox gmusicbrowser gnome-music
 screenruler-icon screenruler
 scribes 
 scribus 
@@ -312,7 +312,7 @@ WorldOfGoo
 Wunderlist wunderlist
 wxbanker gnucash-icon emblems:emblem-sales
 xbmc 
-xchat xchat-gnome xchat-mini smuxi-frontend-gnome
+xchat xchat-gnome xchat-mini smuxi-frontend-gnome polari
 xfce4-appfinder 
 xfce4-panel 
 xine 
